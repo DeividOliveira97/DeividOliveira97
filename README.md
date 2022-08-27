@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeividOliveira97
-- 👀 I’m interested in pessoas que possam me auxilar a aprender mais e mais
-- 🌱 I’m currently learning front end e java
-- 💞️ I’m looking to collaborate em algum projeto para obter experiencia
+- 👋 Oi, eu sou @DeividOliveira97
+- 👀 Estou interessado em pessoas que possam me auxilar a aprender mais e mais
+- 🌱 Atualmente estou aprendendo front end e java
+- 💞️ Estou procurando colaborar em algum projeto para obter experiencia
 - 📫 Entre em contato comigo através do meu instagram @deivid_c.oliveira97
 
 <!---
